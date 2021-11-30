@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukebenda
-- 👀 I’m interested in Hacking, Cybersecurity, Python, Automation, Computer hardware.
+- 👀 I’m interested in Hacking, Cybersecurity, Web Design/Development, Python, Automation, Computer hardware.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lucasjbenda@gmail.com
